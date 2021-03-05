@@ -23,3 +23,9 @@ P.XLim={[10^-1,10^5]};
 P.XLimMode={'manual'};
 P.FreqUnits='Hz';
 bode(G,P)
+
+% Nyquist plot
+figure(4)
+nyquist(G);
+grid on;
+hold on

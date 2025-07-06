@@ -1,2 +1,2 @@
 # Control-Theory
-This is about common contory theory related code.
+Active Vibration Control Literature.
